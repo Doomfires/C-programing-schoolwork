@@ -1,0 +1,32 @@
+Erkin George
+CSC 1230
+10/11/15
+Homework 2
+Description: The output from the code.
+     
+       ---------------------
+|\    /                     \
+| \  /              O    O   \
+|  \/  (                      \
+|  /\   (            \__/     /
+| /  \   (                   /
+|/    \                     /
+       --------------------
+ "Then God said: Let the water teem with an abundance of living creatures, and on
+ the earth let birds fly beneath the dome of the sky." Gen. 1:20
+                                   ~~~~~~~~~~
+                                  ~~  O  O  ~~
+                                 ~~~    )   ~~~
+                                  ~~   \_/ ~~
+                                   ~~~~~~~~~
+       ----------------------------
+       |                           |
+   ====|                           |
+       |                           |
+       ----------------------------
+       ||                 ||
+       ||                 ||
+       ||_                ||_
+"Then God said: Let the earth bring forth every kind of living creature: tame an"
+"imals, crawling things, and every kind of wild animal." Gen. 1:24
+Press any key to continue . . .

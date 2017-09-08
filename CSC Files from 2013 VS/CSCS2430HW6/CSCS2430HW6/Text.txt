@@ -1,0 +1,85 @@
+Find lines containing DynString:
+   1: / DynString.cpp
+  10: #include "DynString.h"
+  14: DynString::DynString(const char s[], const int len)
+  14: DynString::DynString(const char s[], const int len)
+  31: DynString::DynString(const DynString &s)
+  31: DynString::DynString(const DynString &s)
+  31: DynString::DynString(const DynString &s)
+  41: DynString& DynString::operator=(const DynString &rhs)
+  41: DynString& DynString::operator=(const DynString &rhs)
+  41: DynString& DynString::operator=(const DynString &rhs)
+  59: DynString::~DynString()
+  59: DynString::~DynString()
+  65: const int DynString::length() const
+  71: const char* DynString::toString() const
+  77: bool DynString::readLine(std::istream& in)
+  81:           *this = DynString();    // Default string value.
+ 104: bool DynString::readFile(const char filename[])
+ 109:           *this = DynString();    // Default string value.
+ 115:   DynString temp;
+ 116:   DynString holder;
+ 117:   DynString end = "\n";
+ 132:   //       Replace existing DynString value with the first line
+ 139: void DynString::concat(const DynString &s)
+ 139: void DynString::concat(const DynString &s)
+ 171: const int DynString::compare(const DynString &s) const
+ 171: const int DynString::compare(const DynString &s) const
+ 177: const char DynString::getChar(const int position) const
+ 184: const int DynString::findChar(const char ch, const int startoffset) const
+ 203: DynString DynString::substr(const int start, const int len) const
+ 203: DynString DynString::substr(const int start, const int len) const
+ 206:           return(DynString());
+ 208:   return(DynString(&pBuff[start], len));  // Utilize constructor to create substr
+ 213: DynString DynString::findLine(const int linenum) const
+ 213: DynString DynString::findLine(const int linenum) const
+ 246:   return DynString(&pBuff[pos], (length - pos));
+ 250: int DynString::findLineNumber(const int position) const
+ 264: // Overload << operator for DynStrings
+ 266: std::ostream &operator<<(std::ostream& out, const DynString &s)
+
+Find lines containing pBuff:
+  21:   pBuff = new char[curLength + 1];
+  22:   assert(pBuff);
+  24:   for (int i = 0; i<curLength; ++i)               // or, strncpy_s(pBuff, curLength+1, s, curLength);
+  25:           pBuff[i] = s[i];
+  27:   pBuff[curLength] = 0;
+  34:           pBuff = new char[curLength + 1];
+  36:                   pBuff[i] = s.pBuff[i];
+  36:                   pBuff[i] = s.pBuff[i];
+  37:           pBuff[curLength] = '\0';
+  45:           delete[] pBuff; // Delete old array
+  49:           pBuff = new char[curLength + 1]; // Allocate new array
+  52:                   pBuff[i] = rhs.pBuff[i];
+  52:                   pBuff[i] = rhs.pBuff[i];
+  53:           pBuff[curLength] = '\0';
+  61:   delete [] pBuff;
+  73:   return pBuff;
+  89:   delete[] pBuff;
+  90:   pBuff = new char[strlen(s) + 1];
+  94:           pBuff[i] = s[i];
+  97:   pBuff[strlen(s)] = '\0';
+ 114:   delete[] pBuff;
+ 119:   // Read the file-contents into a new pBuff string
+ 126:   pBuff = new char[curLength + 1];
+ 129:           pBuff[i] = holder.pBuff[i];
+ 129:           pBuff[i] = holder.pBuff[i];
+ 131:   pBuff[curLength] = '\0';
+ 148:           temp[i] = pBuff[i];
+ 153:           temp[i + curLength] = s.pBuff[i];
+ 156:   delete [] pBuff;
+ 157:   pBuff = new char[length + 1];
+ 161:           pBuff[i] = temp[i];
+ 164:   pBuff[length] = '\0';
+ 173:   return(strcmp(pBuff, s.pBuff));  // use the cstring function
+ 173:   return(strcmp(pBuff, s.pBuff));  // use the cstring function
+ 179:   char holder = pBuff[position];
+ 193:           if (pBuff[i] == ch)
+ 208:   return(DynString(&pBuff[start], len));  // Utilize constructor to create substr
+ 221:           if (pBuff[i] == '\n')
+ 235:           if (pBuff[i] == '\n')
+ 246:   return DynString(&pBuff[pos], (length - pos));
+ 256:           if (pBuff[i] == '\n')
+ 270:   out << s.toString();    // could use s.pBuff if friend operator<< overload in class
+
+Press any key to continue . . .

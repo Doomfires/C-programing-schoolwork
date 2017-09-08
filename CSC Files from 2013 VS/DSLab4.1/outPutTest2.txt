@@ -1,0 +1,316 @@
+Starting simulation for  Captain America: Civil War which starts at 22:0.
+The line can hold a maximum of 20 patrons.
+The time is currently 20:0.
+Time is 20:01
+-----------
+
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+x
+Thank you for using the simulation! Now closing simulation...
+Theater doors closing!
+There are 0 patrons left in line
+Press any key to continue . . .
+
+//Again, I pressed f and the output did not totally fit
+
+-----------
+Time is 21:27
+-----------
+
+-----------
+Time is 21:28
+-----------
+
+-----------
+Time is 21:29
+-----------
+
+-----------
+Time is 21:30
+-----------
+
+-----------
+Time is 21:31
+-----------
+
+-----------
+Time is 21:32
+-----------
+
+-----------
+Time is 21:33
+-----------
+
+-----------
+Time is 21:34
+-----------
+
+-----------
+Time is 21:35
+-----------
+
+-----------
+Time is 21:36
+-----------
+
+-----------
+Time is 21:37
+-----------
+
+-----------
+Time is 21:38
+-----------
+
+-----------
+Time is 21:39
+-----------
+
+-----------
+Time is 21:40
+-----------
+
+-----------
+21:40 A has entered the line
+-----------
+A
+-----------
+21:40 B has entered the line
+-----------
+A B
+-----------
+21:40 C has entered the line
+-----------
+A B C
+-----------
+21:40 D has entered the line
+-----------
+A B C D
+-----------
+21:40 E has entered the line
+-----------
+A B C D E
+-----------
+21:40 F has entered the line
+-----------
+A B C D E F
+-----------
+21:40 G has entered the line
+-----------
+A B C D E F G
+-----------
+21:40 H has entered the line
+-----------
+A B C D E F G H
+-----------
+21:40 I has entered the line
+-----------
+A B C D E F G H I
+-----------
+21:40 J has entered the line
+-----------
+A B C D E F G H I J
+-----------
+21:40 K has entered the line
+-----------
+A B C D E F G H I J K
+-----------
+21:40 L has entered the line
+-----------
+A B C D E F G H I J K L
+-----------
+Patron A has entered the theater!
+-------------------
+B C D E F G H I J K L
+-------------------
+Time is 21:41
+-----------
+B C D E F G H I J K L
+-----------
+Patron B has entered the theater!
+-------------------
+C D E F G H I J K L
+-------------------
+Time is 21:42
+-----------
+C D E F G H I J K L
+-----------
+Patron C has entered the theater!
+-------------------
+D E F G H I J K L
+-------------------
+Time is 21:43
+-----------
+D E F G H I J K L
+-----------
+Patron D has entered the theater!
+-------------------
+E F G H I J K L
+-------------------
+Time is 21:44
+-----------
+E F G H I J K L
+-----------
+Patron E has entered the theater!
+-------------------
+F G H I J K L
+-------------------
+Time is 21:45
+-----------
+F G H I J K L
+-----------
+21:45 M has entered the line
+-----------
+F G H I J K L M
+-----------
+21:45 N has entered the line
+-----------
+F G H I J K L M N
+-----------
+21:45 O has entered the line
+-----------
+F G H I J K L M N O
+-----------
+21:45 P has entered the line
+-----------
+F G H I J K L M N O P
+-----------
+21:45 Q has entered the line
+-----------
+F G H I J K L M N O P Q
+-----------
+21:45 R has entered the line
+-----------
+F G H I J K L M N O P Q R
+-----------
+21:45 S has entered the line
+-----------
+F G H I J K L M N O P Q R S
+-----------
+21:45 T has entered the line
+-----------
+F G H I J K L M N O P Q R S T
+-----------
+Patron F has entered the theater!
+-------------------
+G H I J K L M N O P Q R S T
+-------------------
+Time is 21:46
+-----------
+G H I J K L M N O P Q R S T
+-----------
+Patron G has entered the theater!
+-------------------
+H I J K L M N O P Q R S T
+-------------------
+Time is 21:47
+-----------
+H I J K L M N O P Q R S T
+-----------
+Patron H has entered the theater!
+-------------------
+I J K L M N O P Q R S T
+-------------------
+Time is 21:48
+-----------
+I J K L M N O P Q R S T
+-----------
+Patron I has entered the theater!
+-------------------
+J K L M N O P Q R S T
+-------------------
+Time is 21:49
+-----------
+J K L M N O P Q R S T
+-----------
+Patron J has entered the theater!
+-------------------
+K L M N O P Q R S T
+-------------------
+Time is 21:50
+-----------
+K L M N O P Q R S T
+-----------
+Patron K has entered the theater!
+-------------------
+L M N O P Q R S T
+-------------------
+Time is 21:51
+-----------
+L M N O P Q R S T
+-----------
+Patron L has entered the theater!
+-------------------
+M N O P Q R S T
+-------------------
+Time is 21:52
+-----------
+M N O P Q R S T
+-----------
+Patron M has entered the theater!
+-------------------
+N O P Q R S T
+-------------------
+Time is 21:53
+-----------
+N O P Q R S T
+-----------
+Patron N has entered the theater!
+-------------------
+O P Q R S T
+-------------------
+Time is 21:54
+-----------
+O P Q R S T
+-----------
+Patron O has entered the theater!
+-------------------
+P Q R S T
+-------------------
+Time is 21:55
+-----------
+P Q R S T
+-----------
+Patron P has entered the theater!
+-------------------
+Q R S T
+-------------------
+Time is 21:56
+-----------
+Q R S T
+-----------
+Patron Q has entered the theater!
+-------------------
+R S T
+-------------------
+Time is 21:57
+-----------
+R S T
+-----------
+Patron R has entered the theater!
+-------------------
+S T
+-------------------
+Time is 21:58
+-----------
+S T
+-----------
+Patron S has entered the theater!
+-------------------
+T
+-------------------
+Time is 21:59
+-----------
+T
+-----------
+Patron T has entered the theater!
+-------------------
+
+-------------------
+Time is 22:00
+-----------
+
+-----------
+Theater doors closing!
+There are 0 patrons left in line
+Press any key to continue . . .

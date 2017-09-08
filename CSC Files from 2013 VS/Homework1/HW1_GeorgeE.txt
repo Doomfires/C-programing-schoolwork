@@ -1,0 +1,29 @@
+//Your Name:Erkin George
+//Course:CSC 1230
+//Date:10/4/15
+//Assignment:Homework 1
+//Description: The output of the code from Homework 1
+
+short maximum: 32767 in 2 bytes
+int maximum: 2147483647 in 4 bytes
+long maximum: 2147483647 in 4 bytes
+
+float precision: 6 decimal digits
+float maximum exponent: 38
+float minimum exponent: -37
+maximum representable floating-point number: 3.40282e+038
+float stored in: 4 bytes
+
+double precision: 15 decimal digits
+double maximum exponent: 308
+double minimum exponent: -307
+maximum representable floating-point number: 1.79769e+308
+double stored in: 8 bytes
+
+long double precision: 15 decimal digits
+long double maximum exponent: 308
+long double minimum exponent: -307
+maximum representable floating-point number: 1.79769e+308
+long double stored in: 8 bytes
+
+Press any key to continue . . .

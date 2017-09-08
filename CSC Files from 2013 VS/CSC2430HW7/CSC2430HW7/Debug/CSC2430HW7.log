@@ -1,0 +1,8 @@
+﻿  SortedListClass.cpp
+  LabListP.cpp
+  LabListMain.cpp
+  Generating Code...
+d:\onedrive for business\onedrive - seattle pacific university\transfer\business\onedrive - seattle pacific university\year 1\csc files from 2013 vs\csc2430hw7\csc2430hw7\lablistp.cpp(115): warning C4715: 'ListClass::operator=': not all control paths return a value
+d:\onedrive for business\onedrive - seattle pacific university\transfer\business\onedrive - seattle pacific university\year 1\csc files from 2013 vs\csc2430hw7\csc2430hw7\sortedlistclass.cpp(116): warning C4715: 'SortedListClass::operator=': not all control paths return a value
+  CSC2430HW7.vcxproj -> D:\OneDrive for Business\OneDrive - Seattle Pacific University\Transfer\Business\OneDrive - Seattle Pacific University\Year 1\CSC Files from 2013 VS\CSC2430HW7\Debug\CSC2430HW7.exe
+  CSC2430HW7.vcxproj -> D:\OneDrive for Business\OneDrive - Seattle Pacific University\Transfer\Business\OneDrive - Seattle Pacific University\Year 1\CSC Files from 2013 VS\CSC2430HW7\Debug\CSC2430HW7.pdb (Full PDB)

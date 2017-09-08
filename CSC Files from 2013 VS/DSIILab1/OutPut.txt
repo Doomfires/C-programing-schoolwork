@@ -1,0 +1,53 @@
+//Erkin George
+//CSC 2430
+//Output for program
+//4/13/2016
+first, printed with client print:
+5
+10
+20
+25
+30
+
+second, printed with client print:
+10
+20
+
+testing ==
+true
+false
+true
+
+testing !=
+false
+true
+false
+
+testing printFront on first:
+5
+10
+20
+25
+30
+
+testing printBack on first:
+30
+25
+20
+10
+5
+
+testing printFront on first after reverse:
+30
+25
+20
+10
+5
+
+testing printBack on first after reverse:
+5
+10
+20
+25
+30
+Press any key to continue . . .

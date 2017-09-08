@@ -1,0 +1,298 @@
+t1: [3, 4, 5]
+Default Triangle:
+Triangle has sides(3, 4, 5)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 6
+
+t2(12, 13, 5) triangle:
+Triangle has sides(12, 13, 5)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 30
+
+t3(13, 12, 5) triangle:
+Triangle has sides(13, 12, 5)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 30
+
+t4(5, 12, 13) triangle:
+Triangle has sides(5, 12, 13)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 30
+
+t5(5, 13, 12) triangle:
+Triangle has sides(5, 13, 12)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 30
+
+t6(4, 6, 4) triangle:
+Triangle has sides(4, 6, 4)
+ Triangle is not a right Triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is an Iscosceles Triangle
+ Triangle Area is: 7.93725
+
+t7(5, 5, 5) triangle:
+Triangle has sides(5, 5, 5)
+ Triangle is not a right Triangle
+ Triangle is an Equilateral Triangle
+ Triangle is an Iscosceles Triangle
+ Triangle Area is: 10.8253
+
+t8(6, 8, 6) triangle:
+Triangle has sides(6, 8, 6)
+ Triangle is not a right Triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is an Iscosceles Triangle
+ Triangle Area is: 17.8885
+
+This is an invalid Triangle. Default values will be assigned.
+t9(1, 0, 1) triangle:
+Triangle has sides(3, 4, 5)
+ Triangle is a right triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 6
+
+t10(5, 7, 9) triangle:
+Triangle has sides(5, 7, 9)
+ Triangle is not a right Triangle
+ Triangle is not an Equilateral Triangle
+ Triangle is not an Iscosceles Triangle
+ Triangle Area is: 17.4123
+
+Press any key to continue . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+Greetings, user. Please enter the string of your choice.
+Empire
+Now please enter the number of places you want the string to move.
+2
+gtkroG
+Press any key to continue . . .
+
+Greetings, user. Please enter the string of your choice.
+Strikes
+Now please enter the number of places you want the string to move.
+3
+vhnluwV
+Press any key to continue . . .
+
+Greetings, user. Please enter the string of your choice.
+Back
+Now please enter the number of places you want the string to move.
+10
+umkL
+Press any key to continue . . .
+
+Greetings, user. Please enter the string of your choice.
+Darth Vader
+Now please enter the number of places you want the string to move.
+5
+wjif[%mywfI
+Press any key to continue . . .
+
+Greetings, user. Please enter the string of your choice.
+Carbonite
+Now please enter the number of places you want the string to move.
+9
+n}rwxk{jL
+Press any key to continue . . .

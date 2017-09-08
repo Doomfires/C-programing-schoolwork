@@ -1,0 +1,448 @@
+Starting simulation for  Fantastic Beasts and Where to Find Them which starts at 00:00.
+The line can hold a maximum of 10 patrons.
+The time is currently 22:00.
+Time is 22:01
+-----------
+
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+22:01 A has entered the line
+-----------
+A
+-----------
+22:01 B has entered the line
+-----------
+A B
+-----------
+22:01 C has entered the line
+-----------
+A B C
+-----------
+Time is 22:02
+-----------
+A B C
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+22:02 D has entered the line
+-----------
+A B C D
+-----------
+22:02 E has entered the line
+-----------
+A B C D E
+-----------
+22:02 F has entered the line
+-----------
+A B C D E F
+-----------
+Time is 22:03
+-----------
+A B C D E F
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+22:03 G has entered the line
+-----------
+A B C D E F G
+-----------
+22:03 H has entered the line
+-----------
+A B C D E F G H
+-----------
+22:03 I has entered the line
+-----------
+A B C D E F G H I
+-----------
+Time is 22:04
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:05
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:06
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:07
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:08
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:09
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:10
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:11
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:12
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:13
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:14
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+fd
+Please press a valid key
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 22:15
+-----------
+A B C D E F G H I
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+
+//Again, f was pressed and not all the output fit
+
+-----------
+Time is 22:57
+-----------
+A B C D E F G H I J
+-----------
+Time is 22:58
+-----------
+A B C D E F G H I J
+-----------
+Time is 22:59
+-----------
+A B C D E F G H I J
+-----------
+Time is 23:00
+-----------
+A B C D E F G H I J
+-----------
+Patron A has entered the theater!
+-------------------
+B C D E F G H I J
+-------------------
+Time is 23:01
+-----------
+B C D E F G H I J
+-----------
+Patron B has entered the theater!
+-------------------
+C D E F G H I J
+-------------------
+Time is 23:02
+-----------
+C D E F G H I J
+-----------
+Patron C has entered the theater!
+-------------------
+D E F G H I J
+-------------------
+Time is 23:03
+-----------
+D E F G H I J
+-----------
+Patron D has entered the theater!
+-------------------
+E F G H I J
+-------------------
+Time is 23:04
+-----------
+E F G H I J
+-----------
+Patron E has entered the theater!
+-------------------
+F G H I J
+-------------------
+Time is 23:05
+-----------
+F G H I J
+-----------
+Patron F has entered the theater!
+-------------------
+G H I J
+-------------------
+Time is 23:06
+-----------
+G H I J
+-----------
+Patron G has entered the theater!
+-------------------
+H I J
+-------------------
+Time is 23:07
+-----------
+H I J
+-----------
+Patron H has entered the theater!
+-------------------
+I J
+-------------------
+Time is 23:08
+-----------
+I J
+-----------
+Patron I has entered the theater!
+-------------------
+J
+-------------------
+Time is 23:09
+-----------
+J
+-----------
+Patron J has entered the theater!
+-------------------
+
+-------------------
+Time is 23:10
+-----------
+
+-----------
+Time is 23:11
+-----------
+
+-----------
+Time is 23:12
+-----------
+
+-----------
+Time is 23:13
+-----------
+
+-----------
+Time is 23:14
+-----------
+
+-----------
+Time is 23:15
+-----------
+
+-----------
+Time is 23:16
+-----------
+
+-----------
+Time is 23:17
+-----------
+
+-----------
+Time is 23:18
+-----------
+
+-----------
+Time is 23:19
+-----------
+
+-----------
+Time is 23:20
+-----------
+
+-----------
+Time is 23:21
+-----------
+
+-----------
+Time is 23:22
+-----------
+
+-----------
+Time is 23:23
+-----------
+
+-----------
+Time is 23:24
+-----------
+
+-----------
+Time is 23:25
+-----------
+
+-----------
+Time is 23:26
+-----------
+
+-----------
+Time is 23:27
+-----------
+
+-----------
+Time is 23:28
+-----------
+
+-----------
+Time is 23:29
+-----------
+
+-----------
+Time is 23:30
+-----------
+
+-----------
+Time is 23:31
+-----------
+
+-----------
+Time is 23:32
+-----------
+
+-----------
+Time is 23:33
+-----------
+
+-----------
+Time is 23:34
+-----------
+
+-----------
+Time is 23:35
+-----------
+
+-----------
+Time is 23:36
+-----------
+
+-----------
+Time is 23:37
+-----------
+
+-----------
+Time is 23:38
+-----------
+
+-----------
+Time is 23:39
+-----------
+
+-----------
+Time is 23:40
+-----------
+
+-----------
+Time is 23:41
+-----------
+
+-----------
+Time is 23:42
+-----------
+
+-----------
+Time is 23:43
+-----------
+
+-----------
+Time is 23:44
+-----------
+
+-----------
+Time is 23:45
+-----------
+
+-----------
+Time is 23:46
+-----------
+
+-----------
+Time is 23:47
+-----------
+
+-----------
+Time is 23:48
+-----------
+
+-----------
+Time is 23:49
+-----------
+
+-----------
+Time is 23:50
+-----------
+
+-----------
+Time is 23:51
+-----------
+
+-----------
+Time is 23:52
+-----------
+
+-----------
+Time is 23:53
+-----------
+
+-----------
+Time is 23:54
+-----------
+
+-----------
+Time is 23:55
+-----------
+
+-----------
+Time is 23:56
+-----------
+
+-----------
+Time is 23:57
+-----------
+
+-----------
+Time is 23:58
+-----------
+
+-----------
+Time is 23:59
+-----------
+
+-----------
+Time is 00:00
+-----------
+
+-----------
+Theater doors closing!
+There are 0 patrons left in line
+Press any key to continue . . .

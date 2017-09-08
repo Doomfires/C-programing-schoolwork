@@ -1,0 +1,71 @@
+Welcome to the TreePetStore, where we use modern technology to provide service for all
+
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 1
+Enter pet name to be added: Dory
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 1
+Enter pet name to be added: Nemo
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 4
+Here is a list of the 2 pet(s) in the database:Dory Nemo
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 2
+Enter pet name to be removed: Bob
+This pet is not in the tree
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 3
+Enter pet name to search for: Dory
+The pet Dory is in the store
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 3
+Enter pet name to search for: Bob
+The pet Bob is not in the store
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 2
+Enter pet name to be removed: Dory
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: 4
+Here is a list of the 1 pet(s) in the database:Nemo
+1. Add pet to inventory
+2. Remove pet from inventory
+3. Search for pet in inventory
+4. Print list of pets
+5. Quit
+Enter menu choice: jfdkfj
+Please press a number from 1-5.
+5
+Goodbye!
+Press any key to continue . . .

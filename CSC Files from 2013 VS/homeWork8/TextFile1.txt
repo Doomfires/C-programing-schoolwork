@@ -1,0 +1,54 @@
+//Erkin George
+//CSC 1230
+//11/27/15
+//Homework 8. A program that assists electrical engineers with their work
+
+Welcome to the Electrical calculator.
+Please input the voltage, current and time for your calculations
+4.8
+1.5
+-1.6
+Please re-enter a time that is zero or greater.
+1.6
+The voltage is: 4.80 volts
+The current is: 1.50 amperes
+The time is: 1.60 seconds
+The power is: 7.20 watts
+The energy is: 11.52 joules
+Do you have more data to input?
+Press n or N to quit. Press any other key to continue
+N
+Thank you for using the program!
+Press any key to continue . . .
+
+Welcome to the Electrical calculator.
+Please input the voltage, current and time for your calculations
+2.3
+4.2
+0.2
+The voltage is: 2.30 volts
+The current is: 4.20 amperes
+The time is: 0.20 seconds
+The power is: 9.66 watts
+The energy is: 1.93 joules
+Do you have more data to input?
+Press n or N to quit. Press any other key to continue
+n
+Thank you for using the program!
+Press any key to continue . . .
+
+Welcome to the Electrical calculator.
+Please input the voltage, current and time for your calculations
+0.5
+0.1
+5.2
+The voltage is: 0.50 volts
+The current is: 0.10 amperes
+The time is: 5.20 seconds
+The power is: 0.05 watts
+The energy is: 0.26 joules
+Do you have more data to input?
+Press n or N to quit. Press any other key to continue
+n
+Thank you for using the program!
+Press any key to continue . . .

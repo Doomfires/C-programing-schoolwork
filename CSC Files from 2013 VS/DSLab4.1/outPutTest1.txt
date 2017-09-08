@@ -1,0 +1,449 @@
+Starting simulation for  The Empire Strikes Back which starts at 17:30.
+The line can hold a maximum of 5 patrons.
+The time is currently 15:30.
+Time is 15:31
+-----------
+
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:31 A has entered the line
+-----------
+A
+-----------
+15:31 X has entered the line
+-----------
+A X
+-----------
+15:31 Y has entered the line
+-----------
+A X Y
+-----------
+15:31 Z has entered the line
+-----------
+A X Y Z
+-----------
+Time is 15:32
+-----------
+A X Y Z
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:32 B has entered the line
+-----------
+A X Y Z B
+-----------
+Time is 15:33
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:33 The line has overflowed!C was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:34
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:34 The line has overflowed!D was turned away!
+-----------
+A X Y Z B
+-----------
+15:34 The line has overflowed!Q was turned away!
+-----------
+A X Y Z B
+-----------
+15:34 The line has overflowed!M was turned away!
+-----------
+A X Y Z B
+-----------
+15:34 The line has overflowed!P was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:35
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:35 The line has overflowed!E was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:36
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:36 The line has overflowed!F was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:37
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:37 The line has overflowed!G was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:38
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:38 The line has overflowed!H was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:39
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+15:39 The line has overflowed!I was turned away!
+-----------
+A X Y Z B
+-----------
+Time is 15:40
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 15:41
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+n
+Continuing simulation...
+Time is 15:42
+-----------
+A X Y Z B
+-----------
+Press n to continue the simulation, press f to finish it, and press x to stop it
+
+//Output did not all fit, I pressed f to finish the simulation and
+//the output below was the result
+
+-------------------
+Time is 16:31
+-----------
+X Y Z B
+-----------
+Patron X has entered the theater!
+-------------------
+Y Z B
+-------------------
+Time is 16:32
+-----------
+Y Z B
+-----------
+Patron Y has entered the theater!
+-------------------
+Z B
+-------------------
+Time is 16:33
+-----------
+Z B
+-----------
+Patron Z has entered the theater!
+-------------------
+B
+-------------------
+Time is 16:34
+-----------
+B
+-----------
+Patron B has entered the theater!
+-------------------
+
+-------------------
+Time is 16:35
+-----------
+
+-----------
+Time is 16:36
+-----------
+
+-----------
+Time is 16:37
+-----------
+
+-----------
+Time is 16:38
+-----------
+
+-----------
+Time is 16:39
+-----------
+
+-----------
+Time is 16:40
+-----------
+
+-----------
+16:40 J has entered the line
+-----------
+J
+-----------
+Patron J has entered the theater!
+-------------------
+
+-------------------
+Time is 16:41
+-----------
+
+-----------
+Time is 16:42
+-----------
+
+-----------
+Time is 16:43
+-----------
+
+-----------
+Time is 16:44
+-----------
+
+-----------
+Time is 16:45
+-----------
+
+-----------
+Time is 16:46
+-----------
+
+-----------
+Time is 16:47
+-----------
+
+-----------
+Time is 16:48
+-----------
+
+-----------
+Time is 16:49
+-----------
+
+-----------
+Time is 16:50
+-----------
+
+-----------
+16:50 K has entered the line
+-----------
+K
+-----------
+Patron K has entered the theater!
+-------------------
+
+-------------------
+Time is 16:51
+-----------
+
+-----------
+Time is 16:52
+-----------
+
+-----------
+Time is 16:53
+-----------
+
+-----------
+Time is 16:54
+-----------
+
+-----------
+Time is 16:55
+-----------
+
+-----------
+Time is 16:56
+-----------
+
+-----------
+Time is 16:57
+-----------
+
+-----------
+Time is 16:58
+-----------
+
+-----------
+Time is 16:59
+-----------
+
+-----------
+Time is 17:00
+-----------
+
+-----------
+Time is 17:01
+-----------
+
+-----------
+Time is 17:02
+-----------
+
+-----------
+Time is 17:03
+-----------
+
+-----------
+Time is 17:04
+-----------
+
+-----------
+Time is 17:05
+-----------
+
+-----------
+Time is 17:06
+-----------
+
+-----------
+Time is 17:07
+-----------
+
+-----------
+Time is 17:08
+-----------
+
+-----------
+Time is 17:09
+-----------
+
+-----------
+Time is 17:10
+-----------
+
+-----------
+Time is 17:11
+-----------
+
+-----------
+Time is 17:12
+-----------
+
+-----------
+Time is 17:13
+-----------
+
+-----------
+Time is 17:14
+-----------
+
+-----------
+Time is 17:15
+-----------
+
+-----------
+Time is 17:16
+-----------
+
+-----------
+Time is 17:17
+-----------
+
+-----------
+Time is 17:18
+-----------
+
+-----------
+Time is 17:19
+-----------
+
+-----------
+Time is 17:20
+-----------
+
+-----------
+Time is 17:21
+-----------
+
+-----------
+Time is 17:22
+-----------
+
+-----------
+Time is 17:23
+-----------
+
+-----------
+Time is 17:24
+-----------
+
+-----------
+Time is 17:25
+-----------
+
+-----------
+Time is 17:26
+-----------
+
+-----------
+Time is 17:27
+-----------
+
+-----------
+Time is 17:28
+-----------
+
+-----------
+Time is 17:29
+-----------
+
+-----------
+17:29 R has entered the line
+-----------
+R
+-----------
+17:29 S has entered the line
+-----------
+R S
+-----------
+17:29 T has entered the line
+-----------
+R S T
+-----------
+17:29 U has entered the line
+-----------
+R S T U
+-----------
+17:29 V has entered the line
+-----------
+R S T U V
+-----------
+Patron R has entered the theater!
+-------------------
+S T U V
+-------------------
+Time is 17:30
+-----------
+S T U V
+-----------
+Theater doors closing!
+There are 4 patrons left in line
+Press any key to continue . . .

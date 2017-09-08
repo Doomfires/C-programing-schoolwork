@@ -1,0 +1,16 @@
+﻿Build started 11/6/2015 12:10:46 PM.
+     1>Project "C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\InClassWork1\InClassWork1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studios\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gasCalculator.cpp
+         gasCalculator.cpp
+     1>c:\users\erkin spu\documents\visual studio 2013\projects\inclasswork1\inclasswork1\gascalculator.cpp(100): warning C4244: '=' : conversion from 'double' to 'char', possible loss of data
+     1>c:\users\erkin spu\documents\visual studio 2013\projects\inclasswork1\inclasswork1\gascalculator.cpp(115): warning C4244: '=' : conversion from 'double' to 'char', possible loss of data
+     1>c:\users\erkin spu\documents\visual studio 2013\projects\inclasswork1\inclasswork1\gascalculator.cpp(130): warning C4244: '=' : conversion from 'double' to 'char', possible loss of data
+       Link:
+         D:\Visual Studios\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\Debug\InClassWork1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\Debug\InClassWork1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\Debug\InClassWork1.lib" /MACHINE:X86 Debug\gasCalculator.obj
+         InClassWork1.vcxproj -> C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\Debug\InClassWork1.exe
+     1>Done Building Project "C:\Users\Erkin SPU\Documents\Visual Studio 2013\Projects\InClassWork1\InClassWork1\InClassWork1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63

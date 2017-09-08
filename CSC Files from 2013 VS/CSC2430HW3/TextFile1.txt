@@ -1,0 +1,43 @@
+Welcome to the  phone number program.
+Enter numbers for as long as you like.
+When you are done, simply hit Enter to end the program
+Please enter an unformatted number:
+2811234
+Unformatted phone number: 2811234
+Formatted phone number: (206) 281-1234
+This is an SPU phone number.
+Please enter an unformatted number:
+1234567
+Unformatted phone number: 1234567
+Formatted phone number: (206) 123-4567
+Please enter an unformatted number:
+2861234
+Unformatted phone number: 2861234
+Formatted phone number: (206) 286-1234
+This is an SPU phone number.
+Please enter an unformatted number:
+1234567890
+Unformatted phone number: 1234567890
+Formatted phone number: (123) 456-7890
+Please enter an unformatted number:
+2811234567890
+Please enter a number that is either 10 or 7 digits in length.
+Please enter an unformatted number:
+2062811234
+Unformatted phone number: 2062811234
+Formatted phone number: (206) 281-1234
+This is an SPU phone number.
+Please enter an unformatted number:
+2066789890
+Unformatted phone number: 2066789890
+Formatted phone number: (206) 678-9890
+Please enter an unformatted number:
+2062864321
+Unformatted phone number: 2062864321
+Formatted phone number: (206) 286-4321
+This is an SPU phone number.
+Please enter an unformatted number:
+
+Thank you for using this program!
+This is an SPU phone number.
+Press any key to continue . . .
